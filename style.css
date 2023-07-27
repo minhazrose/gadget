@@ -1,0 +1,74 @@
+.container{
+    margin-bottom: 50px;
+}
+.bc-color{
+    background-color: rgb(174, 252, 252);
+    border-radius: 10px;
+}
+/* .bc-1{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.bc-2{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+.buy{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 6px 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.see{
+    font-size: 12px;
+    float: right;
+    color: orange;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 7px gray;
+}
+.card-body{
+    text-align: center;
+}
+#line{
+    height: 5px;
+    width: 100px;
+    background-color: orange;
+    margin-left: auto;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-top: -2px;
+    margin-bottom: 10px;
+}
+.up{
+    margin-top: 50px;
+}
+.left{
+    margin-left: 30px;
+}
+figcaption{
+    text-align: center;
+}
+.items{
+    background-color: rgba(231, 236, 240, 0.774);
+    border-radius: 10px;
+}
+.centre{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.rec{
+    text-align: center;
+    color: red;
+}
